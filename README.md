@@ -2,9 +2,8 @@
 
 A lazy Saturday afternoon project.
 
-## Tech stack
+### Tech stack
 `Javascript`
-
 `HTML` 
 `CSS`
 
