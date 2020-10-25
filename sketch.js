@@ -18,8 +18,7 @@ function setup() {
 	playerinfo = createP();
 	playerinfo.position(650,20);
 	playerinfo.style('font-size','200%');
-	//src=createA('https://github.com/sayan01/Tic-Tac-Toe' , 'Github Repo');
-	//src.position(650,150);
+	
 
 }
 function reset(){
