@@ -2,6 +2,10 @@
 
 A lazy Saturday afternoon project.
 
-Usage of `Javascript`, `HTML` and `CSS`
+## Tech stack
+`Javascript`
+
+`HTML` 
+`CSS`
 
 Play this project at project at: https://johnsebin97.github.io/Tic_Tac_toe/
